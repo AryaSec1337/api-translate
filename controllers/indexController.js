@@ -5,10 +5,10 @@ exports.index = (req, res) => {
 	return res.json({
 		status: true,
 		data: {
-			maintainer: 'Azhari Muhammad M <azhari.marzan@gmail.com>',
-			source: 'https://github.com/azharimm/api-translate',
-			endpoint: 'api-translate.azharimm.site/translate?engine={engine}&text={text}&to={to}',
-			example: 'api-translate.azharimm.site/translate?engine=google&text=Welcome&to=id'
+			maintainer: 'Tengku Arya Saputra <tengkuarya00@gmail.com>',
+			source: 'https://github.com/AryaSec1337/api-translate',
+			endpoint: 'api-darkclownsec.herokuapp.com/translate?engine={engine}&text={text}&to={to}',
+			example: 'api-darkclownsec.herokuapp.com/translate?engine=google&text=Welcome&to=id'
 		}
 	})
 }
