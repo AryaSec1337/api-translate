@@ -2,7 +2,7 @@
 
 # Usage
 ```
-https://amm-api-translate.herokuapp.com/translate?engine={engine}&text={text}&to={to}
+https://tools-darkclownsec.herokuapp.com/translate?engine={engine}&text={text}&to={to}
 ```
 ### Query params
 | params        | desc | required |
